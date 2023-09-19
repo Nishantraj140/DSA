@@ -7,6 +7,7 @@ ARRAYS PROBLEMS LIST :
 3. https://leetcode.com/problems/contains-duplicate/description/
 4. https://leetcode.com/problems/maximum-subarray/description/
 5. https://practice.geeksforgeeks.org/problems/second-largest3735/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+6. https://leetcode.com/problems/find-the-duplicate-number/description/
 
 
 
@@ -21,3 +22,4 @@ STRINGS PROBLEMS LIST :
 LINKED-LIST PROBLEMS LIST :
 1. https://leetcode.com/problems/reverse-linked-list/description/
 2. https://leetcode.com/problems/middle-of-the-linked-list/description/
+3. https://leetcode.com/problems/linked-list-cycle/description/
