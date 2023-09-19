@@ -8,6 +8,8 @@ ARRAYS PROBLEMS LIST :
 4. https://leetcode.com/problems/maximum-subarray/description/
 5. https://practice.geeksforgeeks.org/problems/second-largest3735/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 6. https://leetcode.com/problems/find-the-duplicate-number/description/
+7. https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+8. https://leetcode.com/problems/majority-element/description/
 
 
 
@@ -16,6 +18,8 @@ STRINGS PROBLEMS LIST :
 2. https://leetcode.com/problems/valid-anagram/description/
 3. https://leetcode.com/problems/longest-common-prefix/
 4. https://leetcode.com/problems/valid-palindrome-ii/description/
+5. https://leetcode.com/problems/valid-parentheses/description/
+6. https://leetcode.com/problems/length-of-last-word/
 
 
 
