@@ -27,3 +27,9 @@ LINKED-LIST PROBLEMS LIST :
 1. https://leetcode.com/problems/reverse-linked-list/description/
 2. https://leetcode.com/problems/middle-of-the-linked-list/description/
 3. https://leetcode.com/problems/linked-list-cycle/description/
+
+
+STACK PROBLEMS LIST :
+1. https://www.codingninjas.com/studio/problems/delete-middle-element-from-stack_985246?leftPanelTab=0
+2. https://www.codingninjas.com/studio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166?leftPanelTab=0
+3. https://www.codingninjas.com/studio/problems/reverse-stack-using-recursion_631875
