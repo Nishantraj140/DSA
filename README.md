@@ -33,3 +33,5 @@ STACK PROBLEMS LIST :
 1. https://www.codingninjas.com/studio/problems/delete-middle-element-from-stack_985246?leftPanelTab=0
 2. https://www.codingninjas.com/studio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166?leftPanelTab=0
 3. https://www.codingninjas.com/studio/problems/reverse-stack-using-recursion_631875
+4. https://leetcode.com/problems/valid-parentheses/description/
+5. https://www.codingninjas.com/studio/problems/sort-a-stack_985275
