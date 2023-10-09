@@ -10,6 +10,8 @@ ARRAYS PROBLEMS LIST :
 6. https://leetcode.com/problems/find-the-duplicate-number/description/
 7. https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 8. https://leetcode.com/problems/majority-element/description/
+9. https://leetcode.com/problems/two-sum/
+10. 
 
 
 
